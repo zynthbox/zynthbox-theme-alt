@@ -100,12 +100,12 @@
      inkscape:pagecheckerboard="1"
      inkscape:blackoutopacity="0.0"
      showgrid="true"
-     inkscape:current-layer="groove-highlight-center"
+     inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="25.25"
-     inkscape:cx="68.772277"
-     inkscape:cy="102.85149"
+     inkscape:zoom="8.9272231"
+     inkscape:cx="33.04499"
+     inkscape:cy="19.042876"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -442,18 +442,18 @@
     </g>
     <g
        id="groove-highlight-top"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1632-6"
          d="m 28 7 v 3 h 3 v -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground"
          sodipodi:nodetypes="ccccc" />
       <rect
          id="rect8453-2"
          height="2.5"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          width="3"
          x="28"
@@ -461,66 +461,66 @@
       <path
          id="path8-0"
          d="m 28 7 v 1 h 3 v -1 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="groove-highlight-topleft"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1626-12"
          d="m 24 10 h 3 v -3 c -1.662 0 -3 1.338 -3 3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground" />
       <path
          id="path7466-23"
          d="m 27 7.5 c -1.380711874 0 -2.5 1.11928812595 -2.5 2.5 h 2.5 z"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
       <path
          id="path12-7"
          d="m 27 7 c -1.68216 0 -3 1.31784 -3 3 h 1 a 2 2 0 0 1 2 -2 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight" />
     </g>
     <g
        id="groove-highlight-topright"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1634-9"
          d="m 32 10 h 3 c 0 -1.662 -1.338 -3 -3 -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground" />
       <path
          id="path7466-5-5"
          d="m 32 7.5 c 1.380711874 0 2.5 1.11928812595 2.5 2.5 h -2.5 z"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
       <path
          id="path16-9"
          d="m 32 7 v 1 a 2 2 0 0 1 2 2 h 1 c 0 -1.68216 -1.31784 -3 -3 -3 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight" />
     </g>
     <g
        id="groove-highlight-bottom"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1632-5"
          d="m 28 15 v 3 h 3 v -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground"
          sodipodi:nodetypes="ccccc" />
       <rect
          id="rect8453-1-2"
          height="2.5"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          width="3"
          x="28"
@@ -528,83 +528,83 @@
       <path
          id="path20-2"
          d="m 28 18 v -1 h 3 v 1 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="groove-highlight-bottomleft"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="rect1353-7"
          d="m 27 18 v -3 h -3 c 0 1.662 1.338 3 3 3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground" />
       <path
          id="path7466-2-8"
          d="m 27 17.5 c -1.380711874 0 -2.5 -1.1192881259 -2.5 -2.5 h 2.5 z"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
       <path
          id="path24-9"
          d="m 24 15 c 0 1.68216 1.31784 3 3 3 v -1 a 2 2 0 0 1 -2 -2 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight" />
     </g>
     <g
        id="groove-highlight-bottomright"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1638-62"
          d="m 35 15 h -3 v 3 c 1.662 0 3 -1.338 3 -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground" />
       <path
          id="path7466-6-7"
          d="m 32 17.5 c 1.380711874 0 2.5 -1.1192881259 2.5 -2.5 h -2.5 z"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
       <path
          id="path28-3"
          d="m 34 15 a 2 2 0 0 1 -2 2 v 1 c 1.68216 0 3 -1.31784 3 -3 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight" />
     </g>
     <g
        id="groove-highlight-center"
-       style=""
+       style="fill:#d40000"
        transform="translate(-18 2)">
       <path
          id="path1632-3"
          d="m 29 34 v 3 h 3 v -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground"
          sodipodi:nodetypes="ccccc" />
       <path
          id="msc"
          d="m 29 34 v 3 h 3 v -3 z"
-         style="fill:#5765f2;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="groove-highlight-left"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1632-35"
          d="m 24 11 v 3 h 3 v -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground"
          sodipodi:nodetypes="ccccc" />
       <rect
          id="rect8453-9-2-6"
          height="3"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          width="2.5"
          x="24.5"
@@ -612,24 +612,24 @@
       <path
          id="path33-1"
          d="m 24 11 v 3 h 1 v -3 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="groove-highlight-right"
-       style=""
+       style="fill:#d40000"
        transform="translate(-17 25)">
       <path
          id="path1632-7"
          d="m 32 11 v 3 h 3 v -3 z"
-         style="fill:currentColor;fill-rule:evenodd"
+         style="fill:#d40000;fill-rule:evenodd"
          class="ColorScheme-ButtonBackground"
          sodipodi:nodetypes="ccccc" />
       <rect
          id="rect8453-9-29"
          height="3"
-         style="fill:#5765f2;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
+         style="fill:#d40000;fill-rule:evenodd;opacity:0.5;fill-opacity:1"
          class="ColorScheme-Highlight"
          width="2.5"
          x="32"
@@ -637,7 +637,7 @@
       <path
          id="path37-3"
          d="m 34 11 v 3 h 1 v -3 z"
-         style="fill:#5765f2;fill-opacity:1"
+         style="fill:#d40000;fill-opacity:1"
          class="ColorScheme-Highlight"
          inkscape:connector-curvature="0" />
     </g>
@@ -657,5 +657,222 @@
          cy="111.5"
          r="11.5" />
     </g>
+    <g
+       id="groove-highlight-top-5"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-top">
+      <path
+         id="path1632-6-6"
+         d="m 28,7 v 3 h 3 V 7 Z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         id="rect8453-2-2"
+         height="2.5"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         width="3"
+         x="28"
+         y="7.5" />
+      <path
+         id="path8-0-9"
+         d="m 28,7 v 1 h 3 V 7 Z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="groove-highlight-topleft-1"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-topleft"
+       style="fill:#ff6600">
+      <path
+         id="path1626-12-2"
+         d="m 24,10 h 3 V 7 c -1.662,0 -3,1.338 -3,3 z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground" />
+      <path
+         id="path7466-23-7"
+         d="m 27,7.5 c -1.380712,0 -2.5,1.1192881 -2.5,2.5 H 27 Z"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path12-7-0"
+         d="m 27,7 c -1.68216,0 -3,1.31784 -3,3 h 1 a 2,2 0 0 1 2,-2 z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight" />
+    </g>
+    <g
+       id="groove-highlight-topright-9"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-topright"
+       style="fill:#ff6600">
+      <path
+         id="path1634-9-3"
+         d="m 32,10 h 3 C 35,8.338 33.662,7 32,7 Z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground" />
+      <path
+         id="path7466-5-5-6"
+         d="m 32,7.5 c 1.380712,0 2.5,1.1192881 2.5,2.5 H 32 Z"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path16-9-0"
+         d="m 32,7 v 1 a 2,2 0 0 1 2,2 h 1 C 35,8.31784 33.68216,7 32,7 Z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight" />
+    </g>
+    <g
+       id="groove-highlight-bottom-6"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-bottom"
+       style="fill:#ff6600">
+      <path
+         id="path1632-5-2"
+         d="m 28,15 v 3 h 3 v -3 z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         id="rect8453-1-2-6"
+         height="2.5"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         width="3"
+         x="28"
+         y="15" />
+      <path
+         id="path20-2-1"
+         d="m 28,18 v -1 h 3 v 1 z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="groove-highlight-bottomleft-8"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-bottomleft"
+       style="fill:#ff6600">
+      <path
+         id="rect1353-7-7"
+         d="m 27,18 v -3 h -3 c 0,1.662 1.338,3 3,3 z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground" />
+      <path
+         id="path7466-2-8-9"
+         d="m 27,17.5 c -1.380712,0 -2.5,-1.119288 -2.5,-2.5 H 27 Z"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path24-9-2"
+         d="m 24,15 c 0,1.68216 1.31784,3 3,3 v -1 a 2,2 0 0 1 -2,-2 z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight" />
+    </g>
+    <g
+       id="groove-highlight-bottomright-0"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-bottomright"
+       style="fill:#ff6600">
+      <path
+         id="path1638-62-2"
+         d="m 35,15 h -3 v 3 c 1.662,0 3,-1.338 3,-3 z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground" />
+      <path
+         id="path7466-6-7-3"
+         d="m 32,17.5 c 1.380712,0 2.5,-1.119288 2.5,-2.5 H 32 Z"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path28-3-7"
+         d="m 34,15 a 2,2 0 0 1 -2,2 v 1 c 1.68216,0 3,-1.31784 3,-3 z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight" />
+    </g>
+    <g
+       id="groove-highlight-center-5"
+       transform="translate(0.12871287,7.2772277)"
+       inkscape:label="groove-highlight-vertical-center"
+       style="fill:#ffcc00">
+      <path
+         id="path1632-3-9"
+         d="m 29,34 v 3 h 3 v -3 z"
+         style="color:#eff0f1;fill:#ffcc00;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="msc-2"
+         d="m 29,34 v 3 h 3 v -3 z"
+         style="color:#3daee9;opacity:0.5;fill:#ffcc00;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="groove-highlight-left-2"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-left"
+       style="fill:#ff6600">
+      <path
+         id="path1632-35-8"
+         d="m 24,11 v 3 h 3 v -3 z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         id="rect8453-9-2-6-9"
+         height="3"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         width="2.5"
+         x="24.5"
+         y="11" />
+      <path
+         id="path33-1-7"
+         d="m 24,11 v 3 h 1 v -3 z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="groove-highlight-right-3"
+       transform="translate(1.1287129,30.277228)"
+       inkscape:label="groove-highlight-vertical-right"
+       style="fill:#ff6600">
+      <path
+         id="path1632-7-6"
+         d="m 32,11 v 3 h 3 v -3 z"
+         style="color:#eff0f1;fill:#ff6600;fill-rule:evenodd;stop-color:#eff0f1"
+         class="ColorScheme-ButtonBackground"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         id="rect8453-9-29-1"
+         height="3"
+         style="color:#3daee9;opacity:0.5;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         width="2.5"
+         x="32"
+         y="11" />
+      <path
+         id="path37-3-2"
+         d="m 34,11 v 3 h 1 v -3 z"
+         style="color:#3daee9;fill:#ff6600;fill-opacity:1;stop-color:#3daee9"
+         class="ColorScheme-Highlight"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:#ffcc00;stroke-width:0.281813px;-inkscape-stroke:none"
+       id="rect1"
+       width="3.5845411"
+       height="3.7245626"
+       x="40.186069"
+       y="29.40444"
+       inkscape:label="groove-meter" />
   </g>
 </svg>
